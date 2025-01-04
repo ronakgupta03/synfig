@@ -89,6 +89,31 @@
 #define PATH_MAX 4096
 #endif
 
+
+
+
+
+
+#include <iostream>
+
+int main(int argc, char* argv[]) {
+    std::cout << "Synfig: Custom build for testing purposes!" << std::endl;
+    // Existing code
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 using namespace synfig;
 
 /* === M A C R O S ========================================================= */
