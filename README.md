@@ -60,3 +60,7 @@ Support this project with your organization. Your logo will show up here with a 
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](https://github.com/synfig/synfig/blob/master/LICENSE).
+
+## Local Testing Example
+This line was added as part of a test to modify and re-run the Synfig repository.
+
